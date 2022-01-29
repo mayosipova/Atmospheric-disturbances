@@ -1,7 +1,7 @@
 # Atmospheric disturbances
 ## Can a satellite fall to Earth?
 Yes. Why is this happening? Let's talk about launching satellites first.
-
+fuck
 Every year, countries launch dozens of satellites. Below are the statistics of satellite launches by two world leaders - the USSR / Russia and the USA and the number of launched/crashed/partly-crashed russian satellites over the past 60 years (1960-2020).
  
 ![](Both.png) ![](Russia.png)
