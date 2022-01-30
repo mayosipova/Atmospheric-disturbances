@@ -36,8 +36,8 @@ There are several methods, one of which is the osculating element method [8]. If
 ### How do you get solutions? 
 There are many different numerical methods for solving a system of differential equations, for example, the Euler method or the Runge-Kutta method. Despite the fact that Euler's method may be imprecise, in reality it also takes place. We get a curve that is closest to the real orbit of the spacecraft.
 
-## What if we miscalculated? 
-And it happens. It happens that the real orbit is too different from what we assumed. There are two options: either we miscalculated, or something happened (the so-called cosmic event). One way or another, this is called anomalous deviation of the parameters of the orbit.
+### What if we miscalculated? 
+And it happens. It happens that the real orbit is too different from what we assumed. There are two options: either we miscalculated, or something happened (the so-called space event). One way or another, this is called anomalous deviation of the parameters of the orbit.
 
 Thus, it is precisely because of the influence of atmospheric drag that the satellite can fall.
 
