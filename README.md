@@ -1,6 +1,6 @@
 # Atmospheric disturbances
 ## Can a satellite fall to Earth?
-If you was ever wondering how this happens, you should read this blog. This paper is for people who is interested in space or maybe even wants to study space flight mechanics and understand fundamental processes happening in space.
+*If you was ever wondering how this happens, you should read this blog. This paper is for people who is interested in space or maybe even wants to study space flight mechanics and understand fundamental processes happening in space.*
 
 So, the answer is "yes". Why is this happening? Let's talk about launching satellites first.
 
