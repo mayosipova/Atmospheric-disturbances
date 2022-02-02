@@ -1,6 +1,8 @@
 # Atmospheric disturbances
 ## Can a satellite fall to Earth?
-Yes. Why is this happening? Let's talk about launching satellites first.
+If you was ever wondering how this happens, you should read this blog. This paper is for people who is interested in space or maybe even wants to study space flight mechanics and understand fundamental processes happening in space.
+
+So, the answer is "yes". Why is this happening? Let's talk about launching satellites first.
 
 Every year, countries launch dozens of satellites. Below are the statistics of satellite launches by two world leaders - the USSR / Russia and the USA and the number of launched/crashed/partly-crashed russian satellites over the past 60 years (1960-2020) [1].
  
